@@ -1,0 +1,3 @@
+fixpc /home/qnx/src/proc_mgr/proc_mgr.cpp
+fixpc /home/qnx/src/proc_mgr/proc_mgr.h
+

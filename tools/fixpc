@@ -1,0 +1,5 @@
+sed -f /home/qnx/src/tools/fixpc.sed $1 >fixpc.tmp
+mv $1 fixpc.old
+mv fixpc.tmp $1
+
+
